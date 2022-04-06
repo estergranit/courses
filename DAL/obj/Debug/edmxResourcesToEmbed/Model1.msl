@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="COURSESModelStoreContainer" CdmEntityContainer="COURSESEntities">
+    <EntitySetMapping Name="accomplishes">
+      <EntityTypeMapping TypeName="COURSESModel.accomplish">
+        <MappingFragment StoreEntitySet="accomplish">
+          <ScalarProperty Name="accomplishId" ColumnName="accomplishId" />
+          <ScalarProperty Name="accomplishStudent" ColumnName="accomplishStudent" />
+          <ScalarProperty Name="accomplishTask" ColumnName="accomplishTask" />
+          <ScalarProperty Name="isAccomplish" ColumnName="isAccomplish" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="courses">
+      <EntityTypeMapping TypeName="COURSESModel.cours">
+        <MappingFragment StoreEntitySet="courses">
+          <ScalarProperty Name="courseId" ColumnName="courseId" />
+          <ScalarProperty Name="courseName" ColumnName="courseName" />
+          <ScalarProperty Name="lessonsAmount" ColumnName="lessonsAmount" />
+          <ScalarProperty Name="maxParticipants" ColumnName="maxParticipants" />
+          <ScalarProperty Name="startDate" ColumnName="startDate" />
+          <ScalarProperty Name="endDate" ColumnName="endDate" />
+          <ScalarProperty Name="price" ColumnName="price" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="studentCourses">
+      <EntityTypeMapping TypeName="COURSESModel.studentCourse">
+        <MappingFragment StoreEntitySet="studentCourse">
+          <ScalarProperty Name="studentCourseId" ColumnName="studentCourseId" />
+          <ScalarProperty Name="courseId" ColumnName="courseId" />
+          <ScalarProperty Name="studentId" ColumnName="studentId" />
+          <ScalarProperty Name="studentCourseMark" ColumnName="studentCourseMark" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="students">
+      <EntityTypeMapping TypeName="COURSESModel.student">
+        <MappingFragment StoreEntitySet="students">
+          <ScalarProperty Name="studentId" ColumnName="studentId" />
+          <ScalarProperty Name="studentTz" ColumnName="studentTz" />
+          <ScalarProperty Name="studentName" ColumnName="studentName" />
+          <ScalarProperty Name="studentPassword" ColumnName="studentPassword" />
+          <ScalarProperty Name="studentAge" ColumnName="studentAge" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tasks">
+      <EntityTypeMapping TypeName="COURSESModel.task">
+        <MappingFragment StoreEntitySet="tasks">
+          <ScalarProperty Name="taskId" ColumnName="taskId" />
+          <ScalarProperty Name="taskDesc" ColumnName="taskDesc" />
+          <ScalarProperty Name="taskCourse" ColumnName="taskCourse" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

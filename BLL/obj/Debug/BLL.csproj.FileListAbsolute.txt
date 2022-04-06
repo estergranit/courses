@@ -1,0 +1,72 @@
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\BLL\bin\Debug\BLL.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\BLL\bin\Debug\BLL.pdb
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\BLL\bin\Debug\DAL.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\BLL\bin\Debug\EntityFramework.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\BLL\bin\Debug\DAL.pdb
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\BLL\bin\Debug\DAL.dll.config
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\BLL\bin\Debug\EntityFramework.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\BLL\obj\Debug\BLL.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\BLL\obj\Debug\BLL.pdb
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\BLL\bin\Debug\BLL.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\BLL\bin\Debug\BLL.pdb
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\BLL\bin\Debug\DAL.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\BLL\bin\Debug\EntityFramework.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\BLL\bin\Debug\DAL.pdb
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\BLL\bin\Debug\DAL.dll.config
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\BLL\bin\Debug\EntityFramework.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\BLL\obj\Debug\BLL.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\BLL\obj\Debug\BLL.pdb
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\BLL\bin\Debug\BLL.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\BLL\bin\Debug\BLL.pdb
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\BLL\bin\Debug\DAL.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\BLL\bin\Debug\EntityFramework.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\BLL\bin\Debug\DAL.pdb
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\BLL\bin\Debug\DAL.dll.config
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\BLL\bin\Debug\EntityFramework.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\BLL\obj\Debug\BLL.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\BLL\obj\Debug\BLL.pdb
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\BLL\bin\Debug\BLL.dll
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\BLL\bin\Debug\BLL.pdb
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\BLL\bin\Debug\DAL.dll
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\BLL\bin\Debug\EntityFramework.dll
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\BLL\bin\Debug\DAL.pdb
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\BLL\bin\Debug\DAL.dll.config
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\BLL\bin\Debug\EntityFramework.xml
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\BLL\obj\Debug\BLL.dll
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\BLL\obj\Debug\BLL.pdb
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\BLL\bin\Debug\BLL.dll
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\BLL\bin\Debug\BLL.pdb
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\BLL\bin\Debug\DAL.dll
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\BLL\bin\Debug\EntityFramework.dll
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\BLL\bin\Debug\DAL.pdb
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\BLL\bin\Debug\DAL.dll.config
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\BLL\bin\Debug\EntityFramework.xml
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\BLL\obj\Debug\BLL.dll
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\BLL\obj\Debug\BLL.pdb
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\BLL\bin\Debug\BLL.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\BLL\bin\Debug\BLL.pdb
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\BLL\bin\Debug\DAL.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\BLL\bin\Debug\EntityFramework.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\BLL\bin\Debug\DAL.pdb
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\BLL\bin\Debug\DAL.dll.config
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\BLL\bin\Debug\EntityFramework.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\BLL\obj\Debug\BLL.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\BLL\obj\Debug\BLL.pdb

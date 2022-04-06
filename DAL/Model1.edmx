@@ -1,0 +1,375 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="COURSESModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="accomplish">
+          <Key>
+            <PropertyRef Name="accomplishId" />
+          </Key>
+          <Property Name="accomplishId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="accomplishStudent" Type="int" Nullable="false" />
+          <Property Name="accomplishTask" Type="int" Nullable="false" />
+          <Property Name="isAccomplish" Type="bit" />
+        </EntityType>
+        <EntityType Name="courses">
+          <Key>
+            <PropertyRef Name="courseId" />
+          </Key>
+          <Property Name="courseId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="courseName" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="lessonsAmount" Type="int" />
+          <Property Name="maxParticipants" Type="int" />
+          <Property Name="startDate" Type="date" />
+          <Property Name="endDate" Type="date" />
+          <Property Name="price" Type="decimal" Precision="18" Scale="0" />
+        </EntityType>
+        <EntityType Name="studentCourse">
+          <Key>
+            <PropertyRef Name="studentCourseId" />
+          </Key>
+          <Property Name="studentCourseId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="courseId" Type="int" Nullable="false" />
+          <Property Name="studentId" Type="int" Nullable="false" />
+          <Property Name="studentCourseMark" Type="int" />
+        </EntityType>
+        <EntityType Name="students">
+          <Key>
+            <PropertyRef Name="studentId" />
+          </Key>
+          <Property Name="studentId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="studentTz" Type="nchar" MaxLength="9" Nullable="false" />
+          <Property Name="studentName" Type="varchar" MaxLength="30" Nullable="false" />
+          <Property Name="studentPassword" Type="varchar" MaxLength="10" Nullable="false" />
+          <Property Name="studentAge" Type="int" />
+        </EntityType>
+        <EntityType Name="tasks">
+          <Key>
+            <PropertyRef Name="taskId" />
+          </Key>
+          <Property Name="taskId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="taskDesc" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="taskCourse" Type="int" Nullable="false" />
+        </EntityType>
+        <Association Name="fk1">
+          <End Role="courses" Type="Self.courses" Multiplicity="1" />
+          <End Role="tasks" Type="Self.tasks" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="courses">
+              <PropertyRef Name="courseId" />
+            </Principal>
+            <Dependent Role="tasks">
+              <PropertyRef Name="taskCourse" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="fk2">
+          <End Role="courses" Type="Self.courses" Multiplicity="1" />
+          <End Role="studentCourse" Type="Self.studentCourse" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="courses">
+              <PropertyRef Name="courseId" />
+            </Principal>
+            <Dependent Role="studentCourse">
+              <PropertyRef Name="courseId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="fk3">
+          <End Role="students" Type="Self.students" Multiplicity="1" />
+          <End Role="studentCourse" Type="Self.studentCourse" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="students">
+              <PropertyRef Name="studentId" />
+            </Principal>
+            <Dependent Role="studentCourse">
+              <PropertyRef Name="studentId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="fk4">
+          <End Role="students" Type="Self.students" Multiplicity="1" />
+          <End Role="accomplish" Type="Self.accomplish" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="students">
+              <PropertyRef Name="studentId" />
+            </Principal>
+            <Dependent Role="accomplish">
+              <PropertyRef Name="accomplishStudent" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="fk5">
+          <End Role="tasks" Type="Self.tasks" Multiplicity="1" />
+          <End Role="accomplish" Type="Self.accomplish" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="tasks">
+              <PropertyRef Name="taskId" />
+            </Principal>
+            <Dependent Role="accomplish">
+              <PropertyRef Name="accomplishTask" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="COURSESModelStoreContainer">
+          <EntitySet Name="accomplish" EntityType="Self.accomplish" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="courses" EntityType="Self.courses" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="studentCourse" EntityType="Self.studentCourse" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="students" EntityType="Self.students" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="tasks" EntityType="Self.tasks" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="fk1" Association="Self.fk1">
+            <End Role="courses" EntitySet="courses" />
+            <End Role="tasks" EntitySet="tasks" />
+          </AssociationSet>
+          <AssociationSet Name="fk2" Association="Self.fk2">
+            <End Role="courses" EntitySet="courses" />
+            <End Role="studentCourse" EntitySet="studentCourse" />
+          </AssociationSet>
+          <AssociationSet Name="fk3" Association="Self.fk3">
+            <End Role="students" EntitySet="students" />
+            <End Role="studentCourse" EntitySet="studentCourse" />
+          </AssociationSet>
+          <AssociationSet Name="fk4" Association="Self.fk4">
+            <End Role="students" EntitySet="students" />
+            <End Role="accomplish" EntitySet="accomplish" />
+          </AssociationSet>
+          <AssociationSet Name="fk5" Association="Self.fk5">
+            <End Role="tasks" EntitySet="tasks" />
+            <End Role="accomplish" EntitySet="accomplish" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="COURSESModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="accomplish">
+          <Key>
+            <PropertyRef Name="accomplishId" />
+          </Key>
+          <Property Name="accomplishId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="accomplishStudent" Type="Int32" Nullable="false" />
+          <Property Name="accomplishTask" Type="Int32" Nullable="false" />
+          <Property Name="isAccomplish" Type="Boolean" />
+          <NavigationProperty Name="student" Relationship="Self.fk4" FromRole="accomplish" ToRole="students" />
+          <NavigationProperty Name="task" Relationship="Self.fk5" FromRole="accomplish" ToRole="tasks" />
+        </EntityType>
+        <EntityType Name="cours">
+          <Key>
+            <PropertyRef Name="courseId" />
+          </Key>
+          <Property Name="courseId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="courseName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="lessonsAmount" Type="Int32" />
+          <Property Name="maxParticipants" Type="Int32" />
+          <Property Name="startDate" Type="DateTime" Precision="0" />
+          <Property Name="endDate" Type="DateTime" Precision="0" />
+          <Property Name="price" Type="Decimal" Precision="18" Scale="0" />
+          <NavigationProperty Name="tasks" Relationship="Self.fk1" FromRole="courses" ToRole="tasks" />
+          <NavigationProperty Name="studentCourses" Relationship="Self.fk2" FromRole="courses" ToRole="studentCourse" />
+        </EntityType>
+        <EntityType Name="studentCourse">
+          <Key>
+            <PropertyRef Name="studentCourseId" />
+          </Key>
+          <Property Name="studentCourseId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="courseId" Type="Int32" Nullable="false" />
+          <Property Name="studentId" Type="Int32" Nullable="false" />
+          <Property Name="studentCourseMark" Type="Int32" />
+          <NavigationProperty Name="cours" Relationship="Self.fk2" FromRole="studentCourse" ToRole="courses" />
+          <NavigationProperty Name="student" Relationship="Self.fk3" FromRole="studentCourse" ToRole="students" />
+        </EntityType>
+        <EntityType Name="student">
+          <Key>
+            <PropertyRef Name="studentId" />
+          </Key>
+          <Property Name="studentId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="studentTz" Type="String" MaxLength="9" FixedLength="true" Unicode="true" Nullable="false" />
+          <Property Name="studentName" Type="String" MaxLength="30" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="studentPassword" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="studentAge" Type="Int32" />
+          <NavigationProperty Name="accomplishes" Relationship="Self.fk4" FromRole="students" ToRole="accomplish" />
+          <NavigationProperty Name="studentCourses" Relationship="Self.fk3" FromRole="students" ToRole="studentCourse" />
+        </EntityType>
+        <EntityType Name="task">
+          <Key>
+            <PropertyRef Name="taskId" />
+          </Key>
+          <Property Name="taskId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="taskDesc" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="taskCourse" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="accomplishes" Relationship="Self.fk5" FromRole="tasks" ToRole="accomplish" />
+          <NavigationProperty Name="cours" Relationship="Self.fk1" FromRole="tasks" ToRole="courses" />
+        </EntityType>
+        <Association Name="fk4">
+          <End Role="students" Type="Self.student" Multiplicity="1" />
+          <End Role="accomplish" Type="Self.accomplish" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="students">
+              <PropertyRef Name="studentId" />
+            </Principal>
+            <Dependent Role="accomplish">
+              <PropertyRef Name="accomplishStudent" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="fk5">
+          <End Role="tasks" Type="Self.task" Multiplicity="1" />
+          <End Role="accomplish" Type="Self.accomplish" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="tasks">
+              <PropertyRef Name="taskId" />
+            </Principal>
+            <Dependent Role="accomplish">
+              <PropertyRef Name="accomplishTask" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="fk1">
+          <End Role="courses" Type="Self.cours" Multiplicity="1" />
+          <End Role="tasks" Type="Self.task" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="courses">
+              <PropertyRef Name="courseId" />
+            </Principal>
+            <Dependent Role="tasks">
+              <PropertyRef Name="taskCourse" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="fk2">
+          <End Role="courses" Type="Self.cours" Multiplicity="1" />
+          <End Role="studentCourse" Type="Self.studentCourse" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="courses">
+              <PropertyRef Name="courseId" />
+            </Principal>
+            <Dependent Role="studentCourse">
+              <PropertyRef Name="courseId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="fk3">
+          <End Role="students" Type="Self.student" Multiplicity="1" />
+          <End Role="studentCourse" Type="Self.studentCourse" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="students">
+              <PropertyRef Name="studentId" />
+            </Principal>
+            <Dependent Role="studentCourse">
+              <PropertyRef Name="studentId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="COURSESEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="accomplishes" EntityType="Self.accomplish" />
+          <EntitySet Name="courses" EntityType="Self.cours" />
+          <EntitySet Name="studentCourses" EntityType="Self.studentCourse" />
+          <EntitySet Name="students" EntityType="Self.student" />
+          <EntitySet Name="tasks" EntityType="Self.task" />
+          <AssociationSet Name="fk4" Association="Self.fk4">
+            <End Role="students" EntitySet="students" />
+            <End Role="accomplish" EntitySet="accomplishes" />
+          </AssociationSet>
+          <AssociationSet Name="fk5" Association="Self.fk5">
+            <End Role="tasks" EntitySet="tasks" />
+            <End Role="accomplish" EntitySet="accomplishes" />
+          </AssociationSet>
+          <AssociationSet Name="fk1" Association="Self.fk1">
+            <End Role="courses" EntitySet="courses" />
+            <End Role="tasks" EntitySet="tasks" />
+          </AssociationSet>
+          <AssociationSet Name="fk2" Association="Self.fk2">
+            <End Role="courses" EntitySet="courses" />
+            <End Role="studentCourse" EntitySet="studentCourses" />
+          </AssociationSet>
+          <AssociationSet Name="fk3" Association="Self.fk3">
+            <End Role="students" EntitySet="students" />
+            <End Role="studentCourse" EntitySet="studentCourses" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="COURSESModelStoreContainer" CdmEntityContainer="COURSESEntities">
+          <EntitySetMapping Name="accomplishes">
+            <EntityTypeMapping TypeName="COURSESModel.accomplish">
+              <MappingFragment StoreEntitySet="accomplish">
+                <ScalarProperty Name="accomplishId" ColumnName="accomplishId" />
+                <ScalarProperty Name="accomplishStudent" ColumnName="accomplishStudent" />
+                <ScalarProperty Name="accomplishTask" ColumnName="accomplishTask" />
+                <ScalarProperty Name="isAccomplish" ColumnName="isAccomplish" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="courses">
+            <EntityTypeMapping TypeName="COURSESModel.cours">
+              <MappingFragment StoreEntitySet="courses">
+                <ScalarProperty Name="courseId" ColumnName="courseId" />
+                <ScalarProperty Name="courseName" ColumnName="courseName" />
+                <ScalarProperty Name="lessonsAmount" ColumnName="lessonsAmount" />
+                <ScalarProperty Name="maxParticipants" ColumnName="maxParticipants" />
+                <ScalarProperty Name="startDate" ColumnName="startDate" />
+                <ScalarProperty Name="endDate" ColumnName="endDate" />
+                <ScalarProperty Name="price" ColumnName="price" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="studentCourses">
+            <EntityTypeMapping TypeName="COURSESModel.studentCourse">
+              <MappingFragment StoreEntitySet="studentCourse">
+                <ScalarProperty Name="studentCourseId" ColumnName="studentCourseId" />
+                <ScalarProperty Name="courseId" ColumnName="courseId" />
+                <ScalarProperty Name="studentId" ColumnName="studentId" />
+                <ScalarProperty Name="studentCourseMark" ColumnName="studentCourseMark" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="students">
+            <EntityTypeMapping TypeName="COURSESModel.student">
+              <MappingFragment StoreEntitySet="students">
+                <ScalarProperty Name="studentId" ColumnName="studentId" />
+                <ScalarProperty Name="studentTz" ColumnName="studentTz" />
+                <ScalarProperty Name="studentName" ColumnName="studentName" />
+                <ScalarProperty Name="studentPassword" ColumnName="studentPassword" />
+                <ScalarProperty Name="studentAge" ColumnName="studentAge" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="tasks">
+            <EntityTypeMapping TypeName="COURSESModel.task">
+              <MappingFragment StoreEntitySet="tasks">
+                <ScalarProperty Name="taskId" ColumnName="taskId" />
+                <ScalarProperty Name="taskDesc" ColumnName="taskDesc" />
+                <ScalarProperty Name="taskCourse" ColumnName="taskCourse" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

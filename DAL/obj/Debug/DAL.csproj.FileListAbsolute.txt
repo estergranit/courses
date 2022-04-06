@@ -1,0 +1,48 @@
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\DAL\bin\Debug\DAL.dll.config
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\DAL\bin\Debug\DAL.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\DAL\bin\Debug\DAL.pdb
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\DAL\bin\Debug\EntityFramework.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\DAL\bin\Debug\EntityFramework.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\DAL\obj\Debug\DAL.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\DAL\obj\Debug\DAL.pdb
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\DAL\bin\Debug\DAL.dll.config
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\DAL\bin\Debug\DAL.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\DAL\bin\Debug\DAL.pdb
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\DAL\bin\Debug\EntityFramework.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\DAL\bin\Debug\EntityFramework.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\DAL\obj\Debug\DAL.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\DAL\obj\Debug\DAL.pdb
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\DAL\bin\Debug\DAL.dll.config
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\DAL\bin\Debug\DAL.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\DAL\bin\Debug\DAL.pdb
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\DAL\bin\Debug\EntityFramework.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\DAL\bin\Debug\EntityFramework.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\DAL\obj\Debug\DAL.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\DAL\obj\Debug\DAL.pdb
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\DAL\bin\Debug\DAL.dll.config
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\DAL\bin\Debug\DAL.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\DAL\bin\Debug\DAL.pdb
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\DAL\bin\Debug\EntityFramework.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\DAL\bin\Debug\EntityFramework.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\DAL\obj\Debug\DAL.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\DAL\obj\Debug\DAL.pdb

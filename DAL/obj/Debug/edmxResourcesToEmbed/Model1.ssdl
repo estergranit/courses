@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="COURSESModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="accomplish">
+    <Key>
+      <PropertyRef Name="accomplishId" />
+    </Key>
+    <Property Name="accomplishId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="accomplishStudent" Type="int" Nullable="false" />
+    <Property Name="accomplishTask" Type="int" Nullable="false" />
+    <Property Name="isAccomplish" Type="bit" />
+  </EntityType>
+  <EntityType Name="courses">
+    <Key>
+      <PropertyRef Name="courseId" />
+    </Key>
+    <Property Name="courseId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="courseName" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="lessonsAmount" Type="int" />
+    <Property Name="maxParticipants" Type="int" />
+    <Property Name="startDate" Type="date" />
+    <Property Name="endDate" Type="date" />
+    <Property Name="price" Type="decimal" Precision="18" Scale="0" />
+  </EntityType>
+  <EntityType Name="studentCourse">
+    <Key>
+      <PropertyRef Name="studentCourseId" />
+    </Key>
+    <Property Name="studentCourseId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="courseId" Type="int" Nullable="false" />
+    <Property Name="studentId" Type="int" Nullable="false" />
+    <Property Name="studentCourseMark" Type="int" />
+  </EntityType>
+  <EntityType Name="students">
+    <Key>
+      <PropertyRef Name="studentId" />
+    </Key>
+    <Property Name="studentId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="studentTz" Type="nchar" MaxLength="9" Nullable="false" />
+    <Property Name="studentName" Type="varchar" MaxLength="30" Nullable="false" />
+    <Property Name="studentPassword" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="studentAge" Type="int" />
+  </EntityType>
+  <EntityType Name="tasks">
+    <Key>
+      <PropertyRef Name="taskId" />
+    </Key>
+    <Property Name="taskId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="taskDesc" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="taskCourse" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="fk1">
+    <End Role="courses" Type="Self.courses" Multiplicity="1" />
+    <End Role="tasks" Type="Self.tasks" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="courses">
+        <PropertyRef Name="courseId" />
+      </Principal>
+      <Dependent Role="tasks">
+        <PropertyRef Name="taskCourse" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="fk2">
+    <End Role="courses" Type="Self.courses" Multiplicity="1" />
+    <End Role="studentCourse" Type="Self.studentCourse" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="courses">
+        <PropertyRef Name="courseId" />
+      </Principal>
+      <Dependent Role="studentCourse">
+        <PropertyRef Name="courseId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="fk3">
+    <End Role="students" Type="Self.students" Multiplicity="1" />
+    <End Role="studentCourse" Type="Self.studentCourse" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="students">
+        <PropertyRef Name="studentId" />
+      </Principal>
+      <Dependent Role="studentCourse">
+        <PropertyRef Name="studentId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="fk4">
+    <End Role="students" Type="Self.students" Multiplicity="1" />
+    <End Role="accomplish" Type="Self.accomplish" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="students">
+        <PropertyRef Name="studentId" />
+      </Principal>
+      <Dependent Role="accomplish">
+        <PropertyRef Name="accomplishStudent" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="fk5">
+    <End Role="tasks" Type="Self.tasks" Multiplicity="1" />
+    <End Role="accomplish" Type="Self.accomplish" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tasks">
+        <PropertyRef Name="taskId" />
+      </Principal>
+      <Dependent Role="accomplish">
+        <PropertyRef Name="accomplishTask" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="COURSESModelStoreContainer">
+    <EntitySet Name="accomplish" EntityType="Self.accomplish" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="courses" EntityType="Self.courses" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="studentCourse" EntityType="Self.studentCourse" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="students" EntityType="Self.students" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tasks" EntityType="Self.tasks" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="fk1" Association="Self.fk1">
+      <End Role="courses" EntitySet="courses" />
+      <End Role="tasks" EntitySet="tasks" />
+    </AssociationSet>
+    <AssociationSet Name="fk2" Association="Self.fk2">
+      <End Role="courses" EntitySet="courses" />
+      <End Role="studentCourse" EntitySet="studentCourse" />
+    </AssociationSet>
+    <AssociationSet Name="fk3" Association="Self.fk3">
+      <End Role="students" EntitySet="students" />
+      <End Role="studentCourse" EntitySet="studentCourse" />
+    </AssociationSet>
+    <AssociationSet Name="fk4" Association="Self.fk4">
+      <End Role="students" EntitySet="students" />
+      <End Role="accomplish" EntitySet="accomplish" />
+    </AssociationSet>
+    <AssociationSet Name="fk5" Association="Self.fk5">
+      <End Role="tasks" EntitySet="tasks" />
+      <End Role="accomplish" EntitySet="accomplish" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

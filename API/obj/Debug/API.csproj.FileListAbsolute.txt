@@ -1,0 +1,756 @@
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\API.dll.config
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\API.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\API.pdb
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\roslyn\csc.exe
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\roslyn\csc.exe.config
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\roslyn\csc.rsp
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\roslyn\csi.exe
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\roslyn\csi.exe.config
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\roslyn\csi.rsp
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\roslyn\Microsoft.Managed.Core.targets
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\roslyn\System.AppContext.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\roslyn\System.Collections.Immutable.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\roslyn\System.Console.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\roslyn\System.Globalization.Calendars.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\roslyn\System.IO.Compression.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\roslyn\System.IO.FileSystem.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\roslyn\System.Net.Http.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\roslyn\System.Net.Sockets.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\roslyn\System.Reflection.Metadata.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\roslyn\System.ValueTuple.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\roslyn\System.Xml.XPath.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\roslyn\vbc.exe
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\roslyn\vbc.exe.config
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\roslyn\vbc.rsp
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\roslyn\VBCSCompiler.exe
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\roslyn\VBCSCompiler.exe.config
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\Antlr3.Runtime.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\BLL.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\DAL.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\Microsoft.Web.Infrastructure.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\Newtonsoft.Json.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\System.Net.Http.Formatting.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\System.Web.Helpers.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\System.Web.Http.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\System.Web.Http.WebHost.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\System.Web.Mvc.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\System.Web.Optimization.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\System.Web.Razor.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\System.Web.WebPages.Deployment.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\System.Web.WebPages.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\System.Web.WebPages.Razor.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\WebGrease.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\EntityFramework.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\BLL.pdb
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\DAL.pdb
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\DAL.dll.config
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\Newtonsoft.Json.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\System.Net.Http.Formatting.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\System.Web.Helpers.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\System.Web.Http.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\System.Web.Http.WebHost.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\System.Web.Mvc.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\System.Web.Optimization.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\System.Web.Razor.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\System.Web.WebPages.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\System.Web.WebPages.Deployment.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\System.Web.WebPages.Razor.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\Antlr3.Runtime.pdb
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\bin\EntityFramework.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\obj\Debug\API.csprojAssemblyReference.cache
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\obj\Debug\API.csproj.CopyComplete
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\obj\Debug\API.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\Courses\API\obj\Debug\API.pdb
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\API.dll.config
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\API.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\API.pdb
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\roslyn\csc.exe
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\roslyn\csc.exe.config
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\roslyn\csc.rsp
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\roslyn\csi.exe
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\roslyn\csi.exe.config
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\roslyn\csi.rsp
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\roslyn\Microsoft.Managed.Core.targets
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\roslyn\System.AppContext.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\roslyn\System.Collections.Immutable.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\roslyn\System.Console.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\roslyn\System.Globalization.Calendars.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\roslyn\System.IO.Compression.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\roslyn\System.IO.FileSystem.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\roslyn\System.Net.Http.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\roslyn\System.Net.Sockets.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\roslyn\System.Reflection.Metadata.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\roslyn\System.ValueTuple.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\roslyn\System.Xml.XPath.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\roslyn\vbc.exe
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\roslyn\vbc.exe.config
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\roslyn\vbc.rsp
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\roslyn\VBCSCompiler.exe
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\roslyn\VBCSCompiler.exe.config
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\Antlr3.Runtime.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\BLL.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\DAL.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\Microsoft.Web.Infrastructure.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\Newtonsoft.Json.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\System.Net.Http.Formatting.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\System.Web.Helpers.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\System.Web.Http.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\System.Web.Http.WebHost.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\System.Web.Mvc.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\System.Web.Optimization.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\System.Web.Razor.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\System.Web.WebPages.Deployment.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\System.Web.WebPages.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\System.Web.WebPages.Razor.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\WebGrease.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\EntityFramework.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\BLL.pdb
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\DAL.pdb
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\DAL.dll.config
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\Newtonsoft.Json.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\System.Net.Http.Formatting.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\System.Web.Helpers.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\System.Web.Http.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\System.Web.Http.WebHost.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\System.Web.Mvc.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\System.Web.Optimization.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\System.Web.Razor.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\System.Web.WebPages.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\System.Web.WebPages.Deployment.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\System.Web.WebPages.Razor.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\Antlr3.Runtime.pdb
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\bin\EntityFramework.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\obj\Debug\API.csprojAssemblyReference.cache
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\obj\Debug\API.csproj.CopyComplete
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\obj\Debug\API.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses - עותק\API\obj\Debug\API.pdb
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\API.dll.config
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\API.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\API.pdb
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\csc.exe
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\csc.exe.config
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\csc.rsp
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\csi.exe
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\csi.exe.config
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\csi.rsp
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\Microsoft.Managed.Core.targets
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.AppContext.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.Collections.Immutable.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.Console.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.Globalization.Calendars.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.IO.Compression.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.IO.FileSystem.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.Net.Http.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.Net.Sockets.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.Reflection.Metadata.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.ValueTuple.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.Xml.XPath.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\vbc.exe
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\vbc.exe.config
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\vbc.rsp
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\VBCSCompiler.exe
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\VBCSCompiler.exe.config
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Antlr3.Runtime.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\BLL.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\DAL.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Microsoft.Web.Infrastructure.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Newtonsoft.Json.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\System.Net.Http.Formatting.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\System.Web.Helpers.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\System.Web.Http.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\System.Web.Http.WebHost.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\System.Web.Mvc.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\System.Web.Optimization.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\System.Web.Razor.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\System.Web.WebPages.Deployment.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\System.Web.WebPages.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\System.Web.WebPages.Razor.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\WebGrease.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\EntityFramework.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\BLL.pdb
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\DAL.pdb
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\DAL.dll.config
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Newtonsoft.Json.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\System.Net.Http.Formatting.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\System.Web.Helpers.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\System.Web.Http.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\System.Web.Http.WebHost.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\System.Web.Mvc.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\System.Web.Optimization.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\System.Web.Razor.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\System.Web.WebPages.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\System.Web.WebPages.Deployment.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\System.Web.WebPages.Razor.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Antlr3.Runtime.pdb
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\EntityFramework.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\obj\Debug\API.csprojAssemblyReference.cache
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\obj\Debug\API.csproj.CopyComplete
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\obj\Debug\API.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\obj\Debug\API.pdb
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\EntityFramework.SqlServer.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\EntityFramework.SqlServer.xml
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\API.dll.config
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\API.dll
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\API.pdb
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\csc.exe
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\csc.exe.config
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\csc.rsp
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\csi.exe
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\csi.exe.config
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\csi.rsp
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\Microsoft.Managed.Core.targets
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.AppContext.dll
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.Collections.Immutable.dll
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.Console.dll
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.Globalization.Calendars.dll
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.IO.Compression.dll
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.IO.FileSystem.dll
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.Net.Http.dll
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.Net.Sockets.dll
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.Reflection.Metadata.dll
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.ValueTuple.dll
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.Xml.XPath.dll
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\vbc.exe
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\vbc.exe.config
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\vbc.rsp
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\VBCSCompiler.exe
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\VBCSCompiler.exe.config
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\Antlr3.Runtime.dll
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\BLL.dll
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\DAL.dll
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\EntityFramework.dll
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\EntityFramework.SqlServer.dll
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\Microsoft.Web.Infrastructure.dll
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\Newtonsoft.Json.dll
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\System.Net.Http.Formatting.dll
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\System.Web.Helpers.dll
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\System.Web.Http.dll
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\System.Web.Http.WebHost.dll
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\System.Web.Mvc.dll
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\System.Web.Optimization.dll
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\System.Web.Razor.dll
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\System.Web.WebPages.Deployment.dll
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\System.Web.WebPages.dll
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\System.Web.WebPages.Razor.dll
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\WebGrease.dll
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\BLL.pdb
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\DAL.pdb
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\DAL.dll.config
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\EntityFramework.xml
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\EntityFramework.SqlServer.xml
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\Newtonsoft.Json.xml
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\System.Net.Http.Formatting.xml
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\System.Web.Helpers.xml
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\System.Web.Http.xml
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\System.Web.Http.WebHost.xml
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\System.Web.Mvc.xml
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\System.Web.Optimization.xml
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\System.Web.Razor.xml
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\System.Web.WebPages.xml
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\System.Web.WebPages.Deployment.xml
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\System.Web.WebPages.Razor.xml
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\Antlr3.Runtime.pdb
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\obj\Debug\API.csprojAssemblyReference.cache
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\obj\Debug\API.csproj.CopyComplete
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\obj\Debug\API.dll
+C:\תכנות מרים\angular פרויקט\פרויקט עם אתי\‏‏Courses\API\obj\Debug\API.pdb
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\API.dll.config
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\API.dll
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\API.pdb
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\csc.exe
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\csc.exe.config
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\csc.rsp
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\csi.exe
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\csi.exe.config
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\csi.rsp
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\Microsoft.Managed.Core.targets
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.AppContext.dll
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.Collections.Immutable.dll
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.Console.dll
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.Globalization.Calendars.dll
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.IO.Compression.dll
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.IO.FileSystem.dll
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.Net.Http.dll
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.Net.Sockets.dll
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.Reflection.Metadata.dll
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.ValueTuple.dll
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.Xml.XPath.dll
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\vbc.exe
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\vbc.exe.config
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\vbc.rsp
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\VBCSCompiler.exe
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\roslyn\VBCSCompiler.exe.config
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\Antlr3.Runtime.dll
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\BLL.dll
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\DAL.dll
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\EntityFramework.dll
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\EntityFramework.SqlServer.dll
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\Microsoft.Web.Infrastructure.dll
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\Newtonsoft.Json.dll
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\System.Net.Http.Formatting.dll
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\System.Web.Helpers.dll
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\System.Web.Http.dll
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\System.Web.Http.WebHost.dll
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\System.Web.Mvc.dll
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\System.Web.Optimization.dll
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\System.Web.Razor.dll
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\System.Web.WebPages.Deployment.dll
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\System.Web.WebPages.dll
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\System.Web.WebPages.Razor.dll
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\WebGrease.dll
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\BLL.pdb
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\DAL.pdb
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\DAL.dll.config
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\EntityFramework.xml
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\EntityFramework.SqlServer.xml
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\Newtonsoft.Json.xml
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\System.Net.Http.Formatting.xml
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\System.Web.Helpers.xml
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\System.Web.Http.xml
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\System.Web.Http.WebHost.xml
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\System.Web.Mvc.xml
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\System.Web.Optimization.xml
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\System.Web.Razor.xml
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\System.Web.WebPages.xml
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\System.Web.WebPages.Deployment.xml
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\System.Web.WebPages.Razor.xml
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\Antlr3.Runtime.pdb
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\obj\Debug\API.csprojAssemblyReference.cache
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\obj\Debug\API.csproj.CopyComplete
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\obj\Debug\API.dll
+C:\תכנות מרים\angular c# פרויקט\פרויקט עם אתי\‏‏Courses\API\obj\Debug\API.pdb
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\obj\Debug\API.csprojAssemblyReference.cache
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\obj\Debug\API.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\obj\Debug\API.pdb
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\API.dll.config
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\API.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\API.pdb
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\roslyn\csc.exe
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\roslyn\csc.exe.config
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\roslyn\csc.rsp
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\roslyn\csi.exe
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\roslyn\csi.exe.config
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\roslyn\csi.rsp
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\roslyn\Microsoft.Managed.Core.targets
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\roslyn\System.AppContext.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\roslyn\System.Collections.Immutable.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\roslyn\System.Console.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\roslyn\System.Globalization.Calendars.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\roslyn\System.IO.Compression.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\roslyn\System.IO.FileSystem.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\roslyn\System.Net.Http.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\roslyn\System.Net.Sockets.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\roslyn\System.Reflection.Metadata.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\roslyn\System.ValueTuple.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\roslyn\System.Xml.XPath.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\roslyn\vbc.exe
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\roslyn\vbc.exe.config
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\roslyn\vbc.rsp
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\roslyn\VBCSCompiler.exe
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\roslyn\VBCSCompiler.exe.config
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Antlr3.Runtime.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\BLL.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\DAL.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\EntityFramework.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\EntityFramework.SqlServer.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Microsoft.Web.Infrastructure.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Newtonsoft.Json.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\System.Net.Http.Formatting.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\System.Web.Helpers.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\System.Web.Http.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\System.Web.Http.WebHost.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\System.Web.Mvc.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\System.Web.Optimization.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\System.Web.Razor.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\System.Web.WebPages.Deployment.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\System.Web.WebPages.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\System.Web.WebPages.Razor.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\WebGrease.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\BLL.pdb
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\DAL.pdb
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\DAL.dll.config
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\EntityFramework.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\EntityFramework.SqlServer.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Newtonsoft.Json.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\System.Net.Http.Formatting.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\System.Web.Helpers.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\System.Web.Http.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\System.Web.Http.WebHost.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\System.Web.Mvc.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\System.Web.Optimization.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\System.Web.Razor.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\System.Web.WebPages.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\System.Web.WebPages.Deployment.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\System.Web.WebPages.Razor.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Antlr3.Runtime.pdb
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\obj\Debug\API.csproj.CopyComplete
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Aliyun.MNS.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\BLToolkit.4.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\BLY.CSharp.Cores.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\BouncyCastle.Crypto.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Dapper.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\IASL.BioTextMining.Cores.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\JCSoft.WX.Framework.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\JCSoft.WX.Mvc.Cores.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\JWT.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\log4net.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Ltc.CSharp.Cores.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Microsoft.AspNetCore.Authorization.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Microsoft.AspNetCore.Http.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Microsoft.AspNetCore.Routing.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Microsoft.Extensions.DependencyModel.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Microsoft.Extensions.Logging.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Microsoft.Extensions.ObjectPool.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Microsoft.Extensions.Options.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Microsoft.Extensions.Primitives.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Microsoft.Net.Http.Headers.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Microsoft.Win32.Registry.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\RLF.Runtimes.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Roleft.CSharp.Cores.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\System.Buffers.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\System.Diagnostics.DiagnosticSource.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\System.Security.AccessControl.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\System.Security.Principal.Windows.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\System.Text.Encodings.Web.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Wenxi.MongoDB.Bson.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Wenxi.MongoDB.Driver.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\BLY.CSharp.Cores.pdb
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\BLY.CSharp.Cores.dll.config
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\BouncyCastle.Crypto.pdb
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Dapper.pdb
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Dapper.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\log4net.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Ltc.CSharp.Cores.pdb
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Ltc.CSharp.Cores.dll.config
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Microsoft.AspNetCore.Authorization.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Microsoft.AspNetCore.Http.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Microsoft.AspNetCore.Mvc.Formatters.Xml.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Microsoft.AspNetCore.Routing.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Microsoft.Extensions.Logging.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Microsoft.Extensions.ObjectPool.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Microsoft.Extensions.Options.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Microsoft.Extensions.Primitives.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Microsoft.Net.Http.Headers.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\RLF.Runtimes.pdb
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\RLF.Runtimes.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Roleft.CSharp.Cores.pdb
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Roleft.CSharp.Cores.dll.config
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\System.Buffers.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\System.Diagnostics.DiagnosticSource.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\System.Text.Encodings.Web.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Wenxi.MongoDB.Bson.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses_7\API\bin\Wenxi.MongoDB.Driver.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Aliyun.MNS.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\BLToolkit.4.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\BLY.CSharp.Cores.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\BouncyCastle.Crypto.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Dapper.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\IASL.BioTextMining.Cores.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\JCSoft.WX.Framework.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\JCSoft.WX.Mvc.Cores.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\JWT.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\log4net.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Ltc.CSharp.Cores.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Microsoft.AspNetCore.Authorization.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Microsoft.AspNetCore.Http.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Microsoft.AspNetCore.Routing.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Microsoft.Extensions.DependencyModel.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Microsoft.Extensions.Logging.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Microsoft.Extensions.ObjectPool.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Microsoft.Extensions.Options.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Microsoft.Extensions.Primitives.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Microsoft.Net.Http.Headers.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Microsoft.Win32.Registry.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\RLF.Runtimes.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Roleft.CSharp.Cores.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\System.Buffers.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\System.Diagnostics.DiagnosticSource.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\System.Security.AccessControl.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\System.Security.Principal.Windows.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\System.Text.Encodings.Web.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Wenxi.MongoDB.Bson.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Wenxi.MongoDB.Driver.dll
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\BLY.CSharp.Cores.pdb
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\BLY.CSharp.Cores.dll.config
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\BouncyCastle.Crypto.pdb
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Dapper.pdb
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Dapper.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\log4net.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Ltc.CSharp.Cores.pdb
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Ltc.CSharp.Cores.dll.config
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Microsoft.AspNetCore.Authorization.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Microsoft.AspNetCore.Http.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Microsoft.AspNetCore.Mvc.Formatters.Xml.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Microsoft.AspNetCore.Routing.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Microsoft.Extensions.Logging.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Microsoft.Extensions.ObjectPool.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Microsoft.Extensions.Options.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Microsoft.Extensions.Primitives.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Microsoft.Net.Http.Headers.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\RLF.Runtimes.pdb
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\RLF.Runtimes.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Roleft.CSharp.Cores.pdb
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Roleft.CSharp.Cores.dll.config
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\System.Buffers.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\System.Diagnostics.DiagnosticSource.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\System.Text.Encodings.Web.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Wenxi.MongoDB.Bson.xml
+C:\תכנות מרים\angular\פרויקט עם אתי\‏‏Courses\API\bin\Wenxi.MongoDB.Driver.xml
